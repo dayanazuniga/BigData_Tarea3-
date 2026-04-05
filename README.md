@@ -1,6 +1,6 @@
 # BigData_Tarea3-
 Código de la tarea 3 
-Ingreso con el usuario vboz user 
+Ingreso con el usuario vboxuser 
 Contraseña bigdata
 Dataset utilizado:
 https://www.datos.gov.co/resource/mcec-87by.csv
