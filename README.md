@@ -2,7 +2,8 @@
 Código de la tarea 3 
 Ingreso con el usuario vboxuser 
 Contraseña bigdata
-Dataset utilizado:
+Dataset utilizado de la fuente: https://www.datos.gov.co/browse
+Tasa de Cambio Representativa del Mercado -Historico
 https://www.datos.gov.co/resource/mcec-87by.csv
 
 login as: vboxuser
